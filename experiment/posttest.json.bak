@@ -1,0 +1,20 @@
+[
+   {
+      "question": "The air flowing over a cylinder of diameter 59 mm and infinite length with a velocity if 0.1 m/s. Find pressure drag on 1 m length of the cylinder, if the total drag coefficient is 1.5 and shear drag coefficient is 0.25. Take density of air 1.2 kg/m3.",
+      "qid": 1,
+      "option_a": "0.000627N",
+      "option_b": "0.000856N",
+      "option_c": "0.000371N",
+      "option_d": "0.000443N",
+      "correct_option": "d"
+   },
+   {
+      "question": "The air flowing over a cylinder of diameter 55 mm and infinite length with a velocity if 0.1 m/s. Find the total drag, shear drag and pressure drag on 1 m length of the cylinder, if the total drag coefficient is 1.5 and shear drag coefficient is 0.25. Take density of air 1.2 kg/m3.",
+      "qid": 2,
+      "option_a": "0.000629N",
+      "option_b": "0.000301N",
+      "option_c": "0.000413N",
+      "option_d": "0.000728N",
+      "correct_option": "c"
+   }
+]
